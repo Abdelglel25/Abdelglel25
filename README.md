@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Nest & Kubernetes.
+- 🔭 I’m currently working on two new projects.
+- 👯 I’m looking to collaborate on any interesting java projects.
+
 
 <!--
 **Abdelglel25/Abdelglel25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
